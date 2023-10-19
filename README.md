@@ -4,6 +4,8 @@
 ##
 ## Participando da "Semana do Python na Prática" da [Empowerdata](https://www.empowerdata.com.br/), foi realizado na segunda aula uma automação para análise da cotação de uma ação exposta no [Yahoo Finance](https://finance.yahoo.com/).
 ##
+### Usado como exemplo a Petrobras (PETR4.SA)
+##
 ### 💻 O desenvolvimento da automação, aplicou:
 ##
 #### • 📚 Instalação de Biliotecas.
